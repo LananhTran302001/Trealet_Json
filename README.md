@@ -1,6 +1,8 @@
 # Trealet_Json
 Ngôn ngữ sử dụng: HTML, CSS, JS
+
 Thư viện sử dụng: Jquery
+
 Yêu cầu khi sử dụng: có kết nối mạng
 
 

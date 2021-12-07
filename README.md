@@ -6,6 +6,8 @@ Thư viện sử dụng: Jquery
 Yêu cầu khi sử dụng: có kết nối mạng
 
 
+
+
 Tạo file json cho trealet
 
 Giao diện ban đầu:
